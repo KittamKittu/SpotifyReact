@@ -1,2 +1,0 @@
-# SpotifyReact
-React basic project
